@@ -20,9 +20,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "homepage": "https://hsh30835.github.io/pages/"
+    "deploy": "gh-pages -d build"
   },
+  "homepage": "https://hsh30835.github.io/resume/",
   "eslintConfig": {
     "extends": [
       "react-app",
