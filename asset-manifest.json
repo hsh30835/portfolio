@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.ad383eb1.css",
-    "main.js": "/resume/static/js/main.732de31d.js",
-    "static/media/pettales.png": "/resume/static/media/pettales.77b0a677e5e0bb1f13e9.png",
-    "static/media/comfyui.png": "/resume/static/media/comfyui.08ccd56135da16cd179c.png",
-    "static/media/personaletter.png": "/resume/static/media/personaletter.6a6a78c3c6ac0e310c25.png",
-    "static/media/이력서.jpg": "/resume/static/media/이력서.0efbf634f04834930688.jpg",
-    "static/media/everyme피드.png": "/resume/static/media/everyme피드.e4849c11c72ef18f85bc.png",
-    "static/media/rag.png": "/resume/static/media/rag.d9df5c8d5239b211d2ba.png",
-    "static/media/persona아키첵쳐.png": "/resume/static/media/persona아키첵쳐.72e6a4e06d3ee0107348.png",
-    "static/media/persona로고.png": "/resume/static/media/persona로고.c5bb8172a13b8a4ef9e8.png",
-    "static/media/everyme아키텍쳐.png": "/resume/static/media/everyme아키텍쳐.f0b9b6b6f13affc208eb.png",
-    "static/media/persona편지.png": "/resume/static/media/persona편지.7dcb0a7a1ece977ec3c3.png",
-    "static/media/persona편지작성.png": "/resume/static/media/persona편지작성.9f2599fa60e757f56e63.png",
-    "static/media/everyme마이페이지.png": "/resume/static/media/everyme마이페이지.1b36d52f551d7a87a1fc.png",
-    "static/media/everyme메인.png": "/resume/static/media/everyme메인.4359166fc4133c42cf4e.png",
-    "static/media/everyme어드민페이지.png": "/resume/static/media/everyme어드민페이지.db20e5d57dc313168df3.png",
-    "static/media/persona편지함.png": "/resume/static/media/persona편지함.ec66624550ea4aee9d5e.png",
-    "static/media/everyme로그인.png": "/resume/static/media/everyme로그인.7e43fb313f738600f2ce.png",
-    "index.html": "/resume/index.html",
-    "main.ad383eb1.css.map": "/resume/static/css/main.ad383eb1.css.map",
-    "main.732de31d.js.map": "/resume/static/js/main.732de31d.js.map"
+    "main.css": "/portfolio/static/css/main.ad383eb1.css",
+    "main.js": "/portfolio/static/js/main.12170653.js",
+    "static/media/pettales.png": "/portfolio/static/media/pettales.77b0a677e5e0bb1f13e9.png",
+    "static/media/comfyui.png": "/portfolio/static/media/comfyui.08ccd56135da16cd179c.png",
+    "static/media/personaletter.png": "/portfolio/static/media/personaletter.6a6a78c3c6ac0e310c25.png",
+    "static/media/이력서.jpg": "/portfolio/static/media/이력서.0efbf634f04834930688.jpg",
+    "static/media/everyme피드.png": "/portfolio/static/media/everyme피드.e4849c11c72ef18f85bc.png",
+    "static/media/rag.png": "/portfolio/static/media/rag.d9df5c8d5239b211d2ba.png",
+    "static/media/persona아키첵쳐.png": "/portfolio/static/media/persona아키첵쳐.72e6a4e06d3ee0107348.png",
+    "static/media/persona로고.png": "/portfolio/static/media/persona로고.c5bb8172a13b8a4ef9e8.png",
+    "static/media/everyme아키텍쳐.png": "/portfolio/static/media/everyme아키텍쳐.f0b9b6b6f13affc208eb.png",
+    "static/media/persona편지.png": "/portfolio/static/media/persona편지.7dcb0a7a1ece977ec3c3.png",
+    "static/media/persona편지작성.png": "/portfolio/static/media/persona편지작성.9f2599fa60e757f56e63.png",
+    "static/media/everyme마이페이지.png": "/portfolio/static/media/everyme마이페이지.1b36d52f551d7a87a1fc.png",
+    "static/media/everyme메인.png": "/portfolio/static/media/everyme메인.4359166fc4133c42cf4e.png",
+    "static/media/everyme어드민페이지.png": "/portfolio/static/media/everyme어드민페이지.db20e5d57dc313168df3.png",
+    "static/media/persona편지함.png": "/portfolio/static/media/persona편지함.ec66624550ea4aee9d5e.png",
+    "static/media/everyme로그인.png": "/portfolio/static/media/everyme로그인.7e43fb313f738600f2ce.png",
+    "index.html": "/portfolio/index.html",
+    "main.ad383eb1.css.map": "/portfolio/static/css/main.ad383eb1.css.map",
+    "main.12170653.js.map": "/portfolio/static/js/main.12170653.js.map"
   },
   "entrypoints": [
     "static/css/main.ad383eb1.css",
-    "static/js/main.732de31d.js"
+    "static/js/main.12170653.js"
   ]
 }
