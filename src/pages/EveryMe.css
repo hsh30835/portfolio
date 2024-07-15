@@ -1,0 +1,34 @@
+.everyme-container {
+    width: 70%;
+    margin: 0 auto;
+    background-color: rgba(192, 192, 192, 0.3);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 그림자 추가 */
+    text-align: center; /* 모든 텍스트 가운데 정렬 */
+}
+
+.everyme-container img {
+    width: 20%; /* 기본 이미지 너비 조정 */
+    height: auto;
+    margin: 20px 0; /* 위아래 여백 추가 */
+    border-radius: 10px; /* 모서리 둥글게 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 그림자 추가 */
+}
+
+.everyme-container .everymeadmin {
+    width: 80%; /* 어드민 페이지 이미지 너비 조정 */
+}
+
+.everyme-container h1, .everyme-container h2 {
+    font-size: 24px; /* 원하는 폰트 크기 */
+    color: #333; /* 어두운 색상으로 변경 */
+    margin: 20px 0; /* 위아래 여백 추가 */
+}
+
+.everyme-container p {
+    font-size: 18px; /* 원하는 폰트 크기 */
+    color: #555; /* 중간 색상으로 변경 */
+    line-height: 1.6; /* 줄 간격 조정 */
+    margin: 20px 0; /* 위아래 여백 추가 */
+}
